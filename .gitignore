@@ -1,3 +1,4 @@
 /target/
-
+seedproject.iml
+.idea
 src/main/resources/static/jasper/report.pdf
